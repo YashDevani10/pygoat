@@ -1,4 +1,4 @@
-FROM python:3.14.0a1-slim-bookworm
+FROM python:3.14.2-slim-bookworm
 
 # set up the psycopg2
 # set up the psycopg2
